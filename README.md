@@ -4,6 +4,8 @@
 
 Understanding what influences **female labor force participation** is critical for informed policymaking, especially in the context of global development. Using World Bank data, this project explores the relationship between gender-specific factors like **female school enrollment** and **adolescent fertility**, alongside gender-agnostic factors like **urbanization**, **poverty**, and **GDP** as predictors for female labor force participation.
 
+Full project write-up on Medium can be found here[https://medium.com/@andrejsemail/what-drives-female-labor-force-participation-in-slovakia-90680ba27335]:
+
 ---
 
 ## Libraries Used
@@ -15,7 +17,7 @@ Understanding what influences **female labor force participation** is critical f
   
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 | File / Folder               | Description |
 |----------------------------|-------------|
